@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Custom_LiquidParticlesSky
+  m_Shader: {fileID: 4800000, guid: b014d8deb463f4643a5ccd76f7a8a5d1, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: 17903180c9606f2449abb3d604f6b962, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _ParticleTex:
+        m_Texture: {fileID: 2800000, guid: 38b533837d9635c41b9ecc4d80507e09, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _Cutoff: 0.161
+      _Distortion: 0
+      _EdgeSoftness: 0.15
+      _Scale: 10
+      _SpeedX: 0.05
+      _SpeedY: 0.05
+    m_Colors:
+      _BgColor: {r: 0, g: 0.2264151, b: 0.013517308, a: 1}
+      _ParticleColor: {r: 0.13207549, g: 0.054200795, b: 0.068689115, a: 1}
+  m_BuildTextureStacks: []

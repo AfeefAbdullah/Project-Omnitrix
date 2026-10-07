@@ -1,0 +1,7 @@
+{
+  "name": "GoogleMobileAds.Ump.Android",
+  "references": [
+    "GoogleMobileAds.Ump"
+  ],
+  "allowUnsafeCode": true
+}

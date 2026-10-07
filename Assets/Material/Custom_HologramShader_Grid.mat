@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Custom_HologramShader_Grid
+  m_Shader: {fileID: 4800000, guid: ce54255e89fefea4db2e09ae371129ee, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _GLITCH_ON
+  - _GLOW_ON
+  - _GRID_ON
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _Alpha: 1
+      _Brightness: 1
+      _EnableGlitch: 1
+      _EnableGlow: 1
+      _EnableGrid: 1
+      _FlickerDuration: 0.15
+      _FlickerFrequency: 5
+      _FlickerIntensity: 0
+      _FlickerSpeed: 30
+      _Fold: 1
+      _GlitchDuration: 1
+      _GlitchFrequency: 10
+      _GlitchIntensity: 0
+      _GlitchSpeed: 6
+      _GlowSpeed: 2
+      _GlowTiling: 0.5
+      _GridDensity: 0.1
+      _GridSpeed: 1
+      _GridThickness: 0.12
+      _RimPower: 1.29
+    m_Colors:
+      _Direction: {r: 0, g: 1, b: 0, a: 0}
+      _GridDensity: {r: 7, g: 7, b: 0, a: 0}
+      _GridSpeed: {r: 0.25, g: 1, b: 0, a: 0}
+      _MainColor: {r: 0.669642, g: 1, b: 0.43137252, a: 1}
+      _RimColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

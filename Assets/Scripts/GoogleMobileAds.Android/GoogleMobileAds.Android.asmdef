@@ -1,0 +1,8 @@
+{
+  "name": "GoogleMobileAds.Android",
+  "references": [
+    "GoogleMobileAds.Common",
+    "GoogleMobileAds.Core"
+  ],
+  "allowUnsafeCode": true
+}

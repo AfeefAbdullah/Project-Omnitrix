@@ -1,0 +1,27 @@
+using System.Diagnostics;
+using System.Reflection;
+using System.Runtime.CompilerServices;
+
+[assembly: AssemblyTrademark(null)]
+[assembly: InternalsVisibleTo("GoogleMobileAdsNative.iOS.unobfuscate")]
+[assembly: InternalsVisibleTo("GoogleMobileAdsNative.Android.unobfuscate")]
+[assembly: InternalsVisibleTo("GoogleMobileAdsNative.unobfuscate")]
+[assembly: InternalsVisibleTo("GoogleMobileAdsNative.iOS")]
+[assembly: InternalsVisibleTo("GoogleMobileAdsNative.Android")]
+[assembly: InternalsVisibleTo("GoogleMobileAdsNative")]
+[assembly: InternalsVisibleTo("GoogleMobileAds.Android")]
+[assembly: InternalsVisibleTo("GoogleMobileAds.iOS")]
+[assembly: InternalsVisibleTo("GoogleMobileAds")]
+[assembly: AssemblyFileVersion("10.6.0")]
+[assembly: InternalsVisibleTo("GoogleMobileAds")]
+[assembly: InternalsVisibleTo("GoogleMobileAds.Android")]
+[assembly: InternalsVisibleTo("GoogleMobileAds.iOS")]
+[assembly: InternalsVisibleTo("GoogleMobileAds.Unity")]
+[assembly: InternalsVisibleTo("GoogleMobileAdsNative.Api")]
+[assembly: AssemblyCopyright("Copyright 2023 Google LLC. All Rights Reserved.")]
+[assembly: AssemblyProduct("GoogleMobileAds")]
+[assembly: AssemblyCompany("Google LLC")]
+[assembly: AssemblyConfiguration(null)]
+[assembly: AssemblyDescription(null)]
+[assembly: AssemblyTitle("GoogleMobileAds.Common")]
+[assembly: AssemblyVersion("10.6.0.0")]

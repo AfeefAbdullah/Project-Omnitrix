@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1120 &112000000
+LightingDataAsset:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LightingData
+  m_Scene: {fileID: 102900000, guid: dcde9ca33a622ff43850cf326b995b90, type: 3}
+  m_Lightmaps: []
+  m_AOTextures: []
+  m_LightmapsCacheFiles: []
+  m_LightProbes: {fileID: 0}
+  m_LightmapsMode: 1
+  m_BakedAmbientProbeInLinear:
+    sh[ 0]: 0.16674665
+    sh[ 1]: -0.079672985
+    sh[ 2]: 0.0047885776
+    sh[ 3]: -0.005703835
+    sh[ 4]: -0.004274478
+    sh[ 5]: 0.0035876548
+    sh[ 6]: 0.0044969637
+    sh[ 7]: -0.008135303
+    sh[ 8]: 0.014909331
+    sh[ 9]: 0.23651376
+    sh[10]: -0.070960075
+    sh[11]: 0.009669587
+    sh[12]: -0.011523591
+    sh[13]: -0.008726307
+    sh[14]: 0.0073233554
+    sh[15]: 0.008219585
+    sh[16]: -0.0153891845
+    sh[17]: 0.02734483
+    sh[18]: 0.35278392
+    sh[19]: 0.010646651
+    sh[20]: 0.023868829
+    sh[21]: -0.028437061
+    sh[22]: -0.022804322
+    sh[23]: 0.019138576
+    sh[24]: 0.013011601
+    sh[25]: -0.030018514
+    sh[26]: 0.044302184
+  m_LightmappedRendererData: []
+  m_LightmappedRendererDataIDs: []
+  m_EnlightenSceneMapping:
+    m_Renderers: []
+    m_Systems: []
+    m_Probesets: []
+    m_SystemAtlases: []
+    m_TerrainChunks: []
+  m_EnlightenSceneMappingRendererIDs: []
+  m_Lights:
+  - targetObject: 654
+    targetPrefab: 0
+  - targetObject: 655
+    targetPrefab: 0
+  m_LightBakingOutputs:
+  - serializedVersion: 2
+    probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 4
+      mixedLightingMode: 2
+    isBaked: 0
+  - serializedVersion: 2
+    probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 4
+      mixedLightingMode: 2
+    isBaked: 0
+  m_BakedReflectionProbeCubemapCacheFiles: []
+  m_BakedReflectionProbeCubemaps:
+  - {fileID: 8900000, guid: 0db6426cd00e62d4d930ace452d1af78, type: 3}
+  m_BakedReflectionProbes: []
+  m_EnlightenData: 556e69747946530000000008352e782e7800323032322e332e3632663300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_EnlightenDataVersion: 112

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ring
+  - Water
+  - UI
+  - screen
+  - screencover
+  - PostProcess
+  - NoInMainCamera
+  - testLayer
+  - JustScreenCamera
+  - receiveLights
+  - JustInMainCamera
+  - doNotReceiveLights
+  - NotInFreeCamera
+  - Biomnitrix0
+  - Biomnitrix1
+  - SphereParticles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Wheel
+    uniqueID: 1362495399
+    locked: 0
+  - name: GreenIcons
+    uniqueID: 855694343
+    locked: 0
+  - name: Selector
+    uniqueID: 2700376045
+    locked: 0
+  - name: WhiteIcons
+    uniqueID: 2650821427
+    locked: 0
+  - name: OverIcons
+    uniqueID: 2299921393
+    locked: 0
+  - name: Canvas
+    uniqueID: 992859705
+    locked: 0

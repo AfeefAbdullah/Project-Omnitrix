@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1120 &112000000
+LightingDataAsset:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LightingData
+  m_Scene: {fileID: 102900000, guid: b31a98137b46d6b4699a4f17e0a46115, type: 3}
+  m_Lightmaps: []
+  m_AOTextures: []
+  m_LightmapsCacheFiles: []
+  m_LightProbes: {fileID: 0}
+  m_LightmapsMode: 1
+  m_BakedAmbientProbeInLinear:
+    sh[ 0]: 0.16204393
+    sh[ 1]: -0.08070198
+    sh[ 2]: 0.0021932684
+    sh[ 3]: 2.1958968E-07
+    sh[ 4]: 1.06540284E-07
+    sh[ 5]: 0.0016651414
+    sh[ 6]: 0.0036675427
+    sh[ 7]: -1.2107E-07
+    sh[ 8]: 0.01062908
+    sh[ 9]: 0.22890413
+    sh[10]: -0.0730192
+    sh[11]: 0.0044235513
+    sh[12]: 4.8985595E-07
+    sh[13]: 2.3165609E-07
+    sh[14]: 0.0034103766
+    sh[15]: 0.0066818325
+    sh[16]: -1.5086985E-07
+    sh[17]: 0.019334598
+    sh[18]: 0.34706277
+    sh[19]: 0.008612988
+    sh[20]: 0.011019073
+    sh[21]: 1.0907621E-06
+    sh[22]: 5.3549957E-07
+    sh[23]: 0.009026717
+    sh[24]: 0.010100801
+    sh[25]: -3.6307267E-07
+    sh[26]: 0.02887388
+  m_LightmappedRendererData: []
+  m_LightmappedRendererDataIDs: []
+  m_EnlightenSceneMapping:
+    m_Renderers: []
+    m_Systems: []
+    m_Probesets: []
+    m_SystemAtlases: []
+    m_TerrainChunks: []
+  m_EnlightenSceneMappingRendererIDs: []
+  m_Lights:
+  - targetObject: 595
+    targetPrefab: 0
+  - targetObject: 596
+    targetPrefab: 0
+  - targetObject: 597
+    targetPrefab: 0
+  - targetObject: 598
+    targetPrefab: 0
+  - targetObject: 599
+    targetPrefab: 0
+  - targetObject: 600
+    targetPrefab: 0
+  - targetObject: 601
+    targetPrefab: 0
+  m_LightBakingOutputs:
+  - serializedVersion: 2
+    probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 4
+      mixedLightingMode: 2
+    isBaked: 0
+  - serializedVersion: 2
+    probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 4
+      mixedLightingMode: 2
+    isBaked: 0
+  - serializedVersion: 2
+    probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 4
+      mixedLightingMode: 2
+    isBaked: 0
+  - serializedVersion: 2
+    probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 4
+      mixedLightingMode: 2
+    isBaked: 0
+  - serializedVersion: 2
+    probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 4
+      mixedLightingMode: 2
+    isBaked: 0
+  - serializedVersion: 2
+    probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 4
+      mixedLightingMode: 2
+    isBaked: 0
+  - serializedVersion: 2
+    probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 4
+      mixedLightingMode: 2
+    isBaked: 0
+  m_BakedReflectionProbeCubemapCacheFiles: []
+  m_BakedReflectionProbeCubemaps:
+  - {fileID: 8900000, guid: 4cd85779636bec94cbe8ac1001acfa76, type: 3}
+  m_BakedReflectionProbes: []
+  m_EnlightenData: 556e69747946530000000008352e782e7800323032322e332e3632663300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_EnlightenDataVersion: 112
